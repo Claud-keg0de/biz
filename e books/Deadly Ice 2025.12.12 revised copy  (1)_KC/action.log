@@ -1,0 +1,94 @@
+[Mon Dec 22 10:02:55 UTC 2025][INFO] [Action] EE NewBook
+[Mon Dec 22 10:03:01 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Mon Dec 22 10:03:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,54,2),47:0.250000:2,(r,54,54),F
+[Mon Dec 22 10:03:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,54,2),47:0.500000:2,(r,54,54),F
+[Mon Dec 22 10:03:39 UTC 2025][INFO] [Action] E UpdateStyle - (c,13884,2),47:0.250000:2,(r,13884,13884),F
+[Mon Dec 22 10:03:39 UTC 2025][INFO] [Action] E UpdateStyle - (c,13884,2),47:0.500000:2,(r,13884,13884),F
+[Mon Dec 22 10:03:53 UTC 2025][INFO] [Action] E UpdateStyle - (c,22577,1),49:0.250000:2,(r,22577,22577),F
+[Mon Dec 22 10:04:05 UTC 2025][INFO] [Action] E UpdateStyle - (c,31081,2),34:320:3,(r,31081,31081),F
+[Mon Dec 22 10:04:08 UTC 2025][INFO] [Action] E UpdateStyle - (c,33257,2),34:320:3,(r,33257,33257),F
+[Mon Dec 22 10:04:19 UTC 2025][INFO] [Action] E ItemChanged - -1,22577
+[Mon Dec 22 10:04:20 UTC 2025][INFO] [Action] E ItemChanged - -1,13840
+[Mon Dec 22 10:04:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,13878,1),47:0.750000:2,(r,13878,13878),F
+[Mon Dec 22 10:04:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,13878,1),47:0.500000:2,(r,13878,13878),F
+[Mon Dec 22 10:04:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,13878,1),47:0.250000:2,(r,13878,13878),F
+[Mon Dec 22 10:04:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,13878,1),47:0.000000:2,(r,13878,13878),F
+[Mon Dec 22 10:04:33 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Mon Dec 22 10:04:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:0.750000:2,(r,51,51),F
+[Mon Dec 22 10:04:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:1.000000:2,(r,51,51),F
+[Mon Dec 22 10:04:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:0.750000:2,(r,51,51),F
+[Mon Dec 22 10:04:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:0.500000:2,(r,51,51),F
+[Mon Dec 22 10:04:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:0.250000:2,(r,51,51),F
+[Mon Dec 22 10:04:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,51,1),47:0.000000:2,(r,51,51),F
+[Mon Dec 22 10:04:41 UTC 2025][INFO] [Action] E ItemChanged - -1,13840
+[Mon Dec 22 10:04:44 UTC 2025][INFO] [Action] E ItemChanged - -1,22577
+[Mon Dec 22 10:04:47 UTC 2025][INFO] [Action] E ItemChanged - -1,37693
+[Mon Dec 22 10:04:51 UTC 2025][INFO] [Action] E ItemChanged - -1,52947
+[Mon Dec 22 10:04:53 UTC 2025][INFO] [Action] E ItemChanged - -1,62728
+[Mon Dec 22 10:04:54 UTC 2025][INFO] [Action] E ItemChanged - -1,52947
+[Mon Dec 22 10:04:55 UTC 2025][INFO] [Action] E ItemChanged - -1,37693
+[Mon Dec 22 10:04:56 UTC 2025][INFO] [Action] E ItemChanged - -1,22577
+[Mon Dec 22 10:09:32 UTC 2025][INFO] [Action] E FixedFormAction - MCwzNSxQUk9QLUxJU1Q6eyJjb21wb25lbnRzIjpbeyJuYW1lIjoiYm9va190aXRsZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJERUFETFkgSUNFIn0seyJuYW1lIjoiYm9va19zdWJ0aXRsZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiIifSx7Im5hbWUiOiJhdXRob3JfbmFtZSIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJDSFJJUyBST0JFUlRTIn0seyJuYW1lIjoicHVibGlzaGVyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IiJ9LHsibmFtZSI6InB1Ymxpc2hlcl9sb2dvIiwidHlwZSI6ImltYWdlIiwidmFsdWUiOiIifV0sInBhZ2VfdHlwZSI6InRpdGxlX3BhZ2UifQo=
+[Mon Dec 22 10:11:21 UTC 2025][INFO] [Action] E FixedFormAction - MCwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQ2hyaXMgUm9iZXJ0cyJ9LHsibmFtZSI6ImNvcHlyaWdodF95ZWFyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IjIwMjUifSx7Im5hbWUiOiJjb3B5cmlnaHRfdGV4dCIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJBbGwgcmlnaHRzIHJlc2VydmVkXG5cblRoZSBjaGFyYWN0ZXJzIGFuZCBldmVudHMgcG9ydHJheWVkIGluIHRoaXMgYm9vayBhcmUgZmljdGl0aW91cy4gQW55IHNpbWlsYXJpdHkgdG8gcmVhbCBwZXJzb25zLCBsaXZpbmcgb3IgZGVhZCwgaXMgY29pbmNpZGVudGFsIGFuZCBub3QgaW50ZW5kZWQgYnkgdGhlIGF1dGhvci5cblxuTm8gcGFydCBvZiB0aGlzIGJvb2sgbWF5IGJlIHJlcHJvZHVjZWQsIG9yIHN0b3JlZCBpbiBhIHJldHJpZXZhbCBzeXN0ZW0sIG9yIHRyYW5zbWl0dGVkIGluIGFueSBmb3JtIG9yIGJ5IGFueSBtZWFucywgZWxlY3Ryb25pYywgbWVjaGFuaWNhbCwgcGhvdG9jb3B5aW5nLCByZWNvcmRpbmcsIG9yIG90aGVyd2lzZSwgd2l0aG91dCBleHByZXNzIHdyaXR0ZW4gcGVybWlzc2lvbiBvZiB0aGUgcHVibGlzaGVyLlxuXG5JU0JOLTEzOiA5NzgxMjM0NTY3ODkwXG5JU0JOLTEwOiAxNDc3MTIzNDU2XG5cbkNvdmVyIGRlc2lnbiBieTogQXJ0IFBhaW50ZXJcbkxpYnJhcnkgb2YgQ29uZ3Jlc3MgQ29udHJvbCBOdW1iZXI6IDIwMTg2NzUzMDlcblByaW50ZWQgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgb2YgQW1lcmljYSJ9XSwicGFnZV90eXBlIjoiY29weXJpZ2h0In0K
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:42 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] E DeleteContent - (c,544,2),B
+[Mon Dec 22 10:11:43 UTC 2025][INFO] [Action] EFail DeleteContent - 4
+[Mon Dec 22 10:12:04 UTC 2025][INFO] [Action] E FixedFormAction - MSwxLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQ2hyaXMgUm9iZXJ0cyJ9LHsibmFtZSI6ImNvcHlyaWdodF95ZWFyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IjIwMjUifSx7Im5hbWUiOiJjb3B5cmlnaHRfdGV4dCIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJBbGwgcmlnaHRzIHJlc2VydmVkXG5cblRoZSBjaGFyYWN0ZXJzIGFuZCBldmVudHMgcG9ydHJheWVkIGluIHRoaXMgYm9vayBhcmUgZmljdGl0aW91cy4gQW55IHNpbWlsYXJpdHkgdG8gcmVhbCBwZXJzb25zLCBsaXZpbmcgb3IgZGVhZCwgaXMgY29pbmNpZGVudGFsIGFuZCBub3QgaW50ZW5kZWQgYnkgdGhlIGF1dGhvci5cblxuTm8gcGFydCBvZiB0aGlzIGJvb2sgbWF5IGJlIHJlcHJvZHVjZWQsIG9yIHN0b3JlZCBpbiBhIHJldHJpZXZhbCBzeXN0ZW0sIG9yIHRyYW5zbWl0dGVkIGluIGFueSBmb3JtIG9yIGJ5IGFueSBtZWFucywgZWxlY3Ryb25pYywgbWVjaGFuaWNhbCwgcGhvdG9jb3B5aW5nLCByZWNvcmRpbmcsIG9yIG90aGVyd2lzZSwgd2l0aG91dCBleHByZXNzIHdyaXR0ZW4gcGVybWlzc2lvbiBvZiB0aGUgcHVibGlzaGVyLlxuXG5JU0JOLTEzOiA5NzgxMjM0NTY3ODkwXG5JU0JOLTEwOiAxNDc3MTIzNDU2XG5cbiJ9XSwicGFnZV90eXBlIjoiY29weXJpZ2h0In0K
+[Mon Dec 22 10:12:06 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Mon Dec 22 10:12:08 UTC 2025][INFO] [Action] E ItemChanged - -1,25
+[Mon Dec 22 10:13:37 UTC 2025][INFO] [Action] E FixedFormAction - MSwxLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiQ2hyaXMgUm9iZXJ0cyJ9LHsibmFtZSI6ImNvcHlyaWdodF95ZWFyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IjIwMjUifSx7Im5hbWUiOiJjb3B5cmlnaHRfdGV4dCIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJBbGwgcmlnaHRzIHJlc2VydmVkXG5cblRoZSBjaGFyYWN0ZXJzIGFuZCBldmVudHMgcG9ydHJheWVkIGluIHRoaXMgYm9vayBhcmUgZmljdGl0aW91cy4gQW55IHNpbWlsYXJpdHkgdG8gcmVhbCBwZXJzb25zLCBsaXZpbmcgb3IgZGVhZCwgaXMgY29pbmNpZGVudGFsIGFuZCBub3QgaW50ZW5kZWQgYnkgdGhlIGF1dGhvci5cblxuTm8gcGFydCBvZiB0aGlzIGJvb2sgbWF5IGJlIHJlcHJvZHVjZWQsIG9yIHN0b3JlZCBpbiBhIHJldHJpZXZhbCBzeXN0ZW0sIG9yIHRyYW5zbWl0dGVkIGluIGFueSBmb3JtIG9yIGJ5IGFueSBtZWFucywgZWxlY3Ryb25pYywgbWVjaGFuaWNhbCwgcGhvdG9jb3B5aW5nLCByZWNvcmRpbmcsIG9yIG90aGVyd2lzZSwgd2l0aG91dCBleHByZXNzIHdyaXR0ZW4gcGVybWlzc2lvbiBvZiB0aGUgcHVibGlzaGVyLlxuXG5JU0JOLTEzOiA5NzgxMjM0NTY3ODkwXG5JU0JOLTEwOiAxNDc3MTIzNDU2XG5cbiJ9XSwicGFnZV90eXBlIjoiY29weXJpZ2h0In0K
+[Mon Dec 22 10:13:39 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Mon Dec 22 10:13:44 UTC 2025][INFO] [Action] E Copy - (r,1,23)
+[Mon Dec 22 10:14:12 UTC 2025][INFO] [Action] E ItemChanged - -1,25
+[Mon Dec 22 10:14:28 UTC 2025][INFO] [Action] E InsertTocAction - (1)
+[Mon Dec 22 10:14:37 UTC 2025][INFO] [Action] E ItemChanged - -1,476872
+[Mon Dec 22 10:14:38 UTC 2025][INFO] [Action] E ItemChanged - -1,476872
+[Mon Dec 22 10:14:42 UTC 2025][INFO] [Action] E ConvertGenericPageAction - 10,38
+[Mon Dec 22 10:14:45 UTC 2025][INFO] [Action] E ItemChanged - -1,463587
+[Mon Dec 22 10:14:46 UTC 2025][INFO] [Action] E ItemChanged - -1,444806
+[Mon Dec 22 10:14:47 UTC 2025][INFO] [Action] E ItemChanged - -1,463587
+[Mon Dec 22 10:14:48 UTC 2025][INFO] [Action] E ItemChanged - -1,476872
+[Mon Dec 22 10:14:50 UTC 2025][INFO] [Action] U ConvertGenericPageAction
+[Mon Dec 22 10:14:51 UTC 2025][INFO] [Action] E ItemChanged - -1,463587
+[Mon Dec 22 10:14:52 UTC 2025][INFO] [Action] E ItemChanged - -1,476872
+[Mon Dec 22 10:15:03 UTC 2025][INFO] [Action] E UpdateStyle - (r,476892,477724),34:59:3,(r,476892,477724),F
+[Mon Dec 22 10:15:07 UTC 2025][INFO] [Action] U UpdateStyle
+[Mon Dec 22 10:15:10 UTC 2025][INFO] [Action] E ItemChanged - -1,402435
+[Mon Dec 22 10:15:14 UTC 2025][INFO] [Action] E UpdateStyle - (r,402465,403050),34:59:3,(r,402465,403050),F
+[Mon Dec 22 10:15:18 UTC 2025][INFO] [Action] U UpdateStyle
+[Mon Dec 22 10:15:21 UTC 2025][INFO] [Action] E ItemChanged - -1,168818
+[Mon Dec 22 10:15:22 UTC 2025][INFO] [Action] E ItemChanged - -1,159072
+[Mon Dec 22 10:15:26 UTC 2025][INFO] [Action] E ItemChanged - -1,1681
+[Mon Dec 22 10:15:28 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Mon Dec 22 10:15:29 UTC 2025][INFO] [Action] E ItemChanged - -1,517
+[Mon Dec 22 10:15:30 UTC 2025][INFO] [Action] E ItemChanged - -1,25
+[Mon Dec 22 10:15:50 UTC 2025][INFO] [Action] E ItemChanged - -1,1681
+[Mon Dec 22 10:15:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,1770,2251),34:59:3,(r,1770,2251),F
+[Mon Dec 22 10:15:58 UTC 2025][INFO] [Action] U UpdateStyle
+[Mon Dec 22 10:16:08 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Mon Dec 22 10:16:29 UTC 2025][INFO] [Action] EE ExportAction
+[Mon Dec 22 10:19:41 UTC 2025][INFO] [Action] E SaveBook - Save
+[Mon Dec 22 10:19:42 UTC 2025][INFO] Logger Terminated
+[Mon Dec 22 10:21:04 UTC 2025][INFO] [Action] EE OpenBook
+[Mon Dec 22 10:21:07 UTC 2025][INFO] [Action] E ItemChanged - -1,1681
+[Mon Dec 22 10:21:08 UTC 2025][INFO] [Action] E ItemChanged - -1,15520
+[Mon Dec 22 10:21:08 UTC 2025][INFO] [Action] E ItemChanged - -1,39373
+[Mon Dec 22 10:21:12 UTC 2025][INFO] Logger Terminated
+[Thu Feb 19 13:54:31 UTC 2026][INFO] [Action] EE OpenBook - Deadly Ice 2025.12.12 revised copy  (1)_KC.kcb
+[Thu Feb 19 13:55:15 UTC 2026][INFO] Logger Terminated
+[Thu Feb 19 13:55:15 UTC 2026][INFO] [Action] EE OpenBook
+[Thu Feb 19 13:55:46 UTC 2026][INFO] [Action] E SaveBook - SaveforExport
+[Thu Feb 19 13:56:10 UTC 2026][INFO] [Action] EE ExportAction
+[Thu Feb 19 14:02:04 UTC 2026][INFO] [Action] E SaveBook - Save
+[Thu Feb 19 14:02:05 UTC 2026][INFO] Logger Terminated
+[Mon May 11 16:53:38 UTC 2026][INFO] [Action] EE OpenBook - Deadly Ice 2025.12.12 revised copy  (1)_KC.kcb
+[Mon May 11 16:53:47 UTC 2026][INFO] Logger Terminated

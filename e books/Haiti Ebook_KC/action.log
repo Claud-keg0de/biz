@@ -1,0 +1,13 @@
+[Sun Oct 26 13:26:33 UTC 2025][INFO] [Action] EE PackageWorkspace
+[Sun Oct 26 13:26:33 UTC 2025][INFO] [Action] EFail PackageWorkspace - 5
+[Sun Oct 26 13:26:34 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sun Oct 26 13:26:41 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Sun Oct 26 13:26:51 UTC 2025][INFO] [Action] EE PackageWorkspace
+[Sun Oct 26 13:29:35 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sun Oct 26 13:29:36 UTC 2025][INFO] Logger Terminated
+[Tue Oct 28 09:21:09 UTC 2025][INFO] [Action] EE OpenBook - Haiti Ebook_KC.kcb
+[Tue Oct 28 09:21:14 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Oct 28 09:21:15 UTC 2025][INFO] Logger Terminated
+[Tue Oct 28 09:28:18 UTC 2025][INFO] [Action] EE OpenBook - Haiti Ebook_KC.kcb
+[Tue Oct 28 09:28:24 UTC 2025][INFO] [Action] E SaveBook - Save
+[Tue Oct 28 09:28:25 UTC 2025][INFO] Logger Terminated

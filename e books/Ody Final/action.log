@@ -1,0 +1,991 @@
+[Fri Nov 14 06:03:34 UTC 2025][INFO] [Action] EE NewBook
+[Fri Nov 14 06:03:45 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Fri Nov 14 06:03:49 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 1
+[Fri Nov 14 06:03:54 UTC 2025][INFO] [Action] E MergeContainer - 24,1
+[Fri Nov 14 06:03:55 UTC 2025][INFO] [Action] E SplitContainer - 24
+[Fri Nov 14 06:03:58 UTC 2025][INFO] [Action] E AddTextContainer - (c,24,1),1,0,0
+[Fri Nov 14 06:04:04 UTC 2025][INFO] [Action] U AddTextContainer
+[Fri Nov 14 06:04:06 UTC 2025][INFO] [Action] E AddTextContainer - (c,23,2),0,0,0
+[Fri Nov 14 06:04:10 UTC 2025][INFO] [Action] U AddTextContainer
+[Fri Nov 14 06:04:12 UTC 2025][INFO] [Action] E AddTextContainer - (c,21,2),0,0,0
+[Fri Nov 14 06:04:18 UTC 2025][INFO] [Action] E AddTextContainer - (c,25,1),1,0,0
+[Fri Nov 14 06:04:20 UTC 2025][INFO] [Action] U AddTextContainer
+[Fri Nov 14 06:04:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:59:3,(r,25,25),F
+[Fri Nov 14 06:04:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:320:3,(r,25,25),F
+[Fri Nov 14 06:04:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:61:3,(r,25,25),F
+[Fri Nov 14 06:04:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:320:3,(r,25,25),F
+[Fri Nov 14 06:04:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:59:3,(r,25,25),F
+[Fri Nov 14 06:04:32 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),34:320:3,(r,25,25),F
+[Fri Nov 14 06:04:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,24,2),34:59:3,(r,24,24),F
+[Fri Nov 14 06:04:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,24,2),34:320:3,(r,24,24),F
+[Fri Nov 14 06:04:44 UTC 2025][INFO] [Action] E AddTextContainer - (c,38,1),1,0,0
+[Fri Nov 14 06:04:51 UTC 2025][INFO] [Action] E AddTextContainer - (c,285,1),1,0,0
+[Fri Nov 14 06:04:52 UTC 2025][INFO] [Action] E AddTextContainer - (c,286,1),1,0,0
+[Fri Nov 14 06:04:52 UTC 2025][INFO] [Action] E AddTextContainer - (c,287,1),1,0,0
+[Fri Nov 14 06:04:52 UTC 2025][INFO] [Action] E AddTextContainer - (c,288,1),1,0,0
+[Fri Nov 14 06:04:52 UTC 2025][INFO] [Action] E AddTextContainer - (c,289,1),1,0,0
+[Fri Nov 14 06:04:53 UTC 2025][INFO] [Action] E AddTextContainer - (c,290,1),1,0,0
+[Fri Nov 14 06:04:53 UTC 2025][INFO] [Action] E AddTextContainer - (c,291,1),1,0,0
+[Fri Nov 14 06:04:53 UTC 2025][INFO] [Action] E AddTextContainer - (c,292,1),1,0,0
+[Fri Nov 14 06:04:53 UTC 2025][INFO] [Action] E AddTextContainer - (c,293,1),1,0,0
+[Fri Nov 14 06:04:54 UTC 2025][INFO] [Action] E AddTextContainer - (c,294,1),1,0,0
+[Fri Nov 14 06:04:54 UTC 2025][INFO] [Action] E AddTextContainer - (c,295,1),1,0,0
+[Fri Nov 14 06:05:08 UTC 2025][INFO] [Action] E AddTextContainer - (c,25,1),1,0,0
+[Fri Nov 14 06:05:10 UTC 2025][INFO] [Action] U AddTextContainer
+[Fri Nov 14 06:05:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:5.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:3.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:4.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:5.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:5.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:5.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:5.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),47:6.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:30 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.250000:2,(r,25,25),F
+[Fri Nov 14 06:05:32 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.500000:2,(r,25,25),F
+[Fri Nov 14 06:05:32 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.750000:2,(r,25,25),F
+[Fri Nov 14 06:05:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),36:2.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),36:1.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),36:0.000000:2,(r,25,25),F
+[Fri Nov 14 06:05:40 UTC 2025][INFO] [Action] E UpdateStyle - (c,24,2),36:2.000000:2,(r,24,24),F
+[Fri Nov 14 06:05:41 UTC 2025][INFO] [Action] E UpdateStyle - (c,24,2),36:1.000000:2,(r,24,24),F
+[Fri Nov 14 06:05:41 UTC 2025][INFO] [Action] E UpdateStyle - (c,24,2),36:0.000000:2,(r,24,24),F
+[Fri Nov 14 06:05:48 UTC 2025][INFO] [Action] E SaveBook - Save
+[Fri Nov 14 06:05:50 UTC 2025][INFO] [Action] EFail SaveBook - 4
+[Fri Nov 14 06:05:55 UTC 2025][INFO] [Action] E UpdateStyle - (c,56,1),36:2.000000:2,(r,56,56),F
+[Fri Nov 14 06:05:55 UTC 2025][INFO] [Action] E UpdateStyle - (c,56,1),36:1.000000:2,(r,56,56),F
+[Fri Nov 14 06:05:55 UTC 2025][INFO] [Action] E UpdateStyle - (c,56,1),36:0.000000:2,(r,56,56),F
+[Fri Nov 14 06:06:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),36:1.000000:2,(r,393,393),F
+[Fri Nov 14 06:06:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),36:0.000000:2,(r,393,393),F
+[Fri Nov 14 06:06:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,1648,1),36:2.000000:2,(r,1648,1648),F
+[Fri Nov 14 06:06:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,1648,1),36:1.000000:2,(r,1648,1648),F
+[Fri Nov 14 06:06:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,1648,1),36:0.000000:2,(r,1648,1648),F
+[Fri Nov 14 06:06:29 UTC 2025][INFO] [Action] U UpdateStyle
+[Fri Nov 14 06:06:30 UTC 2025][INFO] [Action] U UpdateStyle
+[Fri Nov 14 06:06:31 UTC 2025][INFO] [Action] U UpdateStyle
+[Fri Nov 14 06:06:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,1615,1),36:2.000000:2,(r,1615,1615),F
+[Fri Nov 14 06:06:39 UTC 2025][INFO] [Action] E UpdateStyle - (c,1615,1),36:3.000000:2,(r,1615,1615),F
+[Fri Nov 14 06:06:41 UTC 2025][INFO] [Action] U UpdateStyle
+[Fri Nov 14 06:06:42 UTC 2025][INFO] [Action] U UpdateStyle
+[Fri Nov 14 06:07:36 UTC 2025][INFO] [Action] E ItemChanged - -1,285
+[Fri Nov 14 06:07:38 UTC 2025][INFO] [Action] E ItemChanged - -1,35993
+[Fri Nov 14 06:07:50 UTC 2025][INFO] [Action] E MergeContainer - 54668,0
+[Fri Nov 14 06:07:52 UTC 2025][INFO] [Action] E SplitContainer - 54669
+[Fri Nov 14 06:07:56 UTC 2025][INFO] [Action] U SplitContainer
+[Fri Nov 14 06:07:58 UTC 2025][INFO] [Action] E SplitContainer - 54669
+[Fri Nov 14 06:12:21 UTC 2025][INFO] [Action] E AddTextContainer - (c,490084,1),1,0,0
+[Fri Nov 14 06:12:21 UTC 2025][INFO] [Action] E AddTextContainer - (c,490085,1),1,0,0
+[Fri Nov 14 06:12:22 UTC 2025][INFO] [Action] E AddTextContainer - (c,490086,1),1,0,0
+[Fri Nov 14 06:12:22 UTC 2025][INFO] [Action] E AddTextContainer - (c,490087,1),1,0,0
+[Fri Nov 14 06:12:35 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Fri Nov 14 06:14:55 UTC 2025][INFO] [Action] EE ExportAction
+[Fri Nov 14 06:14:56 UTC 2025][INFO] [Action] E SaveBook - Save
+[Fri Nov 14 06:14:57 UTC 2025][INFO] Logger Terminated
+[Sat Nov 15 18:09:20 UTC 2025][INFO] [Action] EE OpenBook
+[Sat Nov 15 18:09:32 UTC 2025][INFO] Logger Terminated
+[Mon Nov 17 19:01:23 UTC 2025][INFO] [Action] EE OpenBook
+[Mon Nov 17 19:02:09 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:5.750000:2,(r,37,37),F
+[Mon Nov 17 19:02:09 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:5.500000:2,(r,37,37),F
+[Mon Nov 17 19:02:09 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:5.250000:2,(r,37,37),F
+[Mon Nov 17 19:02:10 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:5.000000:2,(r,37,37),F
+[Mon Nov 17 19:02:10 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:4.750000:2,(r,37,37),F
+[Mon Nov 17 19:02:10 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:4.500000:2,(r,37,37),F
+[Mon Nov 17 19:02:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:4.250000:2,(r,37,37),F
+[Mon Nov 17 19:02:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:4.000000:2,(r,37,37),F
+[Mon Nov 17 19:02:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:3.750000:2,(r,37,37),F
+[Mon Nov 17 19:02:12 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:3.500000:2,(r,37,37),F
+[Mon Nov 17 19:02:16 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Mon Nov 17 19:02:48 UTC 2025][INFO] [Action] EE ExportAction
+[Mon Nov 17 19:02:53 UTC 2025][INFO] [Action] E SaveBook - Save
+[Mon Nov 17 19:02:55 UTC 2025][INFO] Logger Terminated
+[Thu Nov 20 08:43:48 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Thu Nov 20 08:43:53 UTC 2025][INFO] [Action] E MergeContainer - 22,0
+[Thu Nov 20 08:48:51 UTC 2025][INFO] [Action] E DeleteContent - (c,451716,2),B
+[Thu Nov 20 08:48:52 UTC 2025][INFO] [Action] E InsertTextContent - (c,451716,1),[o]
+[Thu Nov 20 08:50:01 UTC 2025][INFO] [Action] E ItemChanged - -1,284
+[Thu Nov 20 08:58:06 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Thu Nov 20 08:59:03 UTC 2025][INFO] [Action] U AutoChapterGroupAction
+[Thu Nov 20 08:59:04 UTC 2025][INFO] [Action] U InsertTextContent
+[Thu Nov 20 08:59:26 UTC 2025][INFO] [Action] E ApplySemantics - (r,1,1),chapter_title
+[Thu Nov 20 08:59:28 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:01:29 UTC 2025][INFO] [Action] E ApplySemantics - (r,1,1),chapter_title
+[Thu Nov 20 09:02:46 UTC 2025][INFO] [Action] E ApplySemantics - (r,392,392),subheading
+[Thu Nov 20 09:02:50 UTC 2025][INFO] [Action] E UpdateStyle - (c,392,1),34:320:3,(r,392,392),F
+[Thu Nov 20 09:02:50 UTC 2025][INFO] [Action] E UpdateStyle - (c,392,1),34:320:3,(r,392,392),F
+[Thu Nov 20 09:03:01 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:03:03 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:03:03 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:03:13 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Thu Nov 20 09:04:11 UTC 2025][INFO] [Action] E ItemChanged - -1,206050
+[Thu Nov 20 09:04:16 UTC 2025][INFO] [Action] E RemoveSectionBreak - 206060,1
+[Thu Nov 20 09:04:21 UTC 2025][INFO] [Action] E ApplySemantics - (r,206061,206061),subheading
+[Thu Nov 20 09:04:32 UTC 2025][INFO] [Action] E ApplySemantics - (r,206061,206061),chapter_subtitle
+[Thu Nov 20 09:06:22 UTC 2025][INFO] [Action] EE ClearFormatting - (c,206074,2)
+[Thu Nov 20 09:06:23 UTC 2025][INFO] [Action] EE ClearFormatting - (c,206074,2)
+[Thu Nov 20 09:06:32 UTC 2025][INFO] [Action] E UpdateStyle - (r,206061,206074),16:1.000000:2,(r,206061,206074),F
+[Thu Nov 20 09:06:33 UTC 2025][INFO] [Action] E UpdateStyle - (r,206061,206074),16:1.000000:2,(r,206061,206074),F
+[Thu Nov 20 09:06:34 UTC 2025][INFO] [Action] E UpdateStyle - (r,206061,206074),16:14.000000:2,(r,206061,206074),F
+[Thu Nov 20 09:06:36 UTC 2025][INFO] [Action] E UpdateStyle - (r,206061,206074),34:320:3,(r,206061,206074),F
+[Thu Nov 20 09:06:51 UTC 2025][INFO] [Action] E UpdateStyle - (r,206061,206074),13:361:3,(r,206061,206074),F
+[Thu Nov 20 09:06:56 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 1
+[Thu Nov 20 09:07:21 UTC 2025][INFO] [Action] E ItemChanged - -1,284
+[Thu Nov 20 09:07:21 UTC 2025][INFO] [Action] E ItemChanged - -1,392
+[Thu Nov 20 09:07:29 UTC 2025][INFO] [Action] E ApplySemantics - (r,392,392),chapter_title
+[Thu Nov 20 09:07:36 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:07:56 UTC 2025][INFO] [Action] E ApplySemantics - (r,392,404),subheading
+[Thu Nov 20 09:08:03 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:1.000000:2,(r,392,404),F
+[Thu Nov 20 09:08:05 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:18.000000:2,(r,392,404),F
+[Thu Nov 20 09:08:07 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),34:320:3,(r,392,404),F
+[Thu Nov 20 09:08:35 UTC 2025][INFO] [Action] E ApplySemantics - (r,4356,4356),subheading
+[Thu Nov 20 09:09:23 UTC 2025][INFO] [Action] E ApplySemantics - (r,4356,4356),chapter_title
+[Thu Nov 20 09:09:30 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:09:47 UTC 2025][INFO] [Action] E ApplySemantics - (r,4356,4356),subheading
+[Thu Nov 20 09:09:47 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Thu Nov 20 09:10:08 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Thu Nov 20 09:10:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:2.250000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:2.000000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:1.750000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:1.500000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:1.250000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:1.000000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.750000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.500000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.250000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.000000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.250000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:32 UTC 2025][INFO] [Action] E UpdateStyle - (c,4348,1),47:0.500000:2,(r,4348,4348),F
+[Thu Nov 20 09:10:48 UTC 2025][INFO] [Action] E UpdateStyle - (r,4348,4356),16:9.000000:2,(r,4348,4356),F
+[Thu Nov 20 09:10:54 UTC 2025][INFO] [Action] E UpdateStyle - (r,4348,4356),16:9.000000:2,(r,4348,4356),F
+[Thu Nov 20 09:10:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,4348,4356),16:1.000000:2,(r,4348,4356),F
+[Thu Nov 20 09:10:56 UTC 2025][INFO] [Action] E UpdateStyle - (r,4348,4356),16:18.000000:2,(r,4348,4356),F
+[Thu Nov 20 09:11:01 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:02 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:03 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:04 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:04 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:05 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:06 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:07 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:08 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:08 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:09 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:09 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:10 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:11:11 UTC 2025][INFO] [Action] U AutoChapterGroupAction
+[Thu Nov 20 09:11:12 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:11:26 UTC 2025][INFO] [Action] E Copy - (r,4348,4356)
+[Thu Nov 20 09:11:28 UTC 2025][INFO] [Action] E Copy - (r,4348,4356)
+[Thu Nov 20 09:11:33 UTC 2025][INFO] [Action] E Copy - (r,4348,4356)
+[Thu Nov 20 09:11:50 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 0
+[Thu Nov 20 09:11:54 UTC 2025][INFO] [Action] E DeleteContent - (c,4356,2),B
+[Thu Nov 20 09:11:54 UTC 2025][INFO] [Action] E DeleteContent - (c,4355,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4354,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4353,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4352,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4351,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4350,2),B
+[Thu Nov 20 09:11:55 UTC 2025][INFO] [Action] E DeleteContent - (c,4349,2),B
+[Thu Nov 20 09:11:56 UTC 2025][INFO] [Action] E DeleteContent - (c,4348,2),B
+[Thu Nov 20 09:11:57 UTC 2025][INFO] [Action] E RemoveSectionBreak - 4348,0
+[Thu Nov 20 09:11:59 UTC 2025][INFO] [Action] U RemoveSectionBreak
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:00 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:12:01 UTC 2025][INFO] [Action] E DeleteContent - (c,4356,2),B
+[Thu Nov 20 09:12:02 UTC 2025][INFO] [Action] E DeleteContent - (c,4355,2),B
+[Thu Nov 20 09:12:02 UTC 2025][INFO] [Action] E DeleteContent - (c,4354,2),B
+[Thu Nov 20 09:12:02 UTC 2025][INFO] [Action] E DeleteContent - (c,4353,2),B
+[Thu Nov 20 09:12:02 UTC 2025][INFO] [Action] E DeleteContent - (c,4352,2),B
+[Thu Nov 20 09:12:02 UTC 2025][INFO] [Action] E DeleteContent - (c,4351,2),B
+[Thu Nov 20 09:12:03 UTC 2025][INFO] [Action] E DeleteContent - (c,4350,2),B
+[Thu Nov 20 09:12:03 UTC 2025][INFO] [Action] E DeleteContent - (c,4349,2),B
+[Thu Nov 20 09:12:03 UTC 2025][INFO] [Action] E DeleteContent - (c,4348,2),B
+[Thu Nov 20 09:12:05 UTC 2025][INFO] [Action] E Paste - (c,4348,2),9
+[Thu Nov 20 09:12:15 UTC 2025][INFO] [Action] E ItemChanged - -1,59272
+[Thu Nov 20 09:12:31 UTC 2025][INFO] [Action] E AutoChapterGroupAction - 1
+[Thu Nov 20 09:12:35 UTC 2025][INFO] Logger Terminated
+[Thu Nov 20 09:37:13 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Thu Nov 20 09:37:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:3.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:23 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:4.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:3.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:24 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:3.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:3.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:3.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:2.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:2.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:2.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:2.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:1.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:1.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:1.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:1.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:0.750000:2,(r,34,34),F
+[Thu Nov 20 09:37:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:0.500000:2,(r,34,34),F
+[Thu Nov 20 09:37:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:0.250000:2,(r,34,34),F
+[Thu Nov 20 09:37:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,34,2),47:0.000000:2,(r,34,34),F
+[Thu Nov 20 09:37:34 UTC 2025][INFO] [Action] E AddTextContainer - (c,24,2),0,0,0
+[Thu Nov 20 09:37:40 UTC 2025][INFO] [Action] E MergeContainer - 25,0
+[Thu Nov 20 09:37:43 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:43 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.250000:2,(r,25,25),F
+[Thu Nov 20 09:37:43 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.500000:2,(r,25,25),F
+[Thu Nov 20 09:37:44 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.750000:2,(r,25,25),F
+[Thu Nov 20 09:37:44 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:5.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:45 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.750000:2,(r,25,25),F
+[Thu Nov 20 09:37:45 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.500000:2,(r,25,25),F
+[Thu Nov 20 09:37:45 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.250000:2,(r,25,25),F
+[Thu Nov 20 09:37:45 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:4.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:45 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.750000:2,(r,25,25),F
+[Thu Nov 20 09:37:46 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.500000:2,(r,25,25),F
+[Thu Nov 20 09:37:46 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.250000:2,(r,25,25),F
+[Thu Nov 20 09:37:46 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:3.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:46 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.750000:2,(r,25,25),F
+[Thu Nov 20 09:37:47 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.500000:2,(r,25,25),F
+[Thu Nov 20 09:37:47 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.250000:2,(r,25,25),F
+[Thu Nov 20 09:37:47 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:2.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:48 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.750000:2,(r,25,25),F
+[Thu Nov 20 09:37:48 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.500000:2,(r,25,25),F
+[Thu Nov 20 09:37:48 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.250000:2,(r,25,25),F
+[Thu Nov 20 09:37:48 UTC 2025][INFO] [Action] E UpdateStyle - (c,25,1),42:1.000000:2,(r,25,25),F
+[Thu Nov 20 09:37:53 UTC 2025][INFO] [Action] E AddTextContainer - (c,23,1),1,0,0
+[Thu Nov 20 09:37:54 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:37:55 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:37:58 UTC 2025][INFO] [Action] E AddTextContainer - (c,24,2),0,0,0
+[Thu Nov 20 09:38:10 UTC 2025][INFO] [Action] E MergeContainer - 22,0
+[Thu Nov 20 09:38:52 UTC 2025][INFO] [Action] E ApplySemantics - (r,393,393),chapter_title
+[Thu Nov 20 09:38:58 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.250000:2,(r,393,393),F
+[Thu Nov 20 09:38:59 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.500000:2,(r,393,393),F
+[Thu Nov 20 09:38:59 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.750000:2,(r,393,393),F
+[Thu Nov 20 09:38:59 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:3.000000:2,(r,393,393),F
+[Thu Nov 20 09:39:00 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.750000:2,(r,393,393),F
+[Thu Nov 20 09:39:01 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.500000:2,(r,393,393),F
+[Thu Nov 20 09:39:01 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.250000:2,(r,393,393),F
+[Thu Nov 20 09:39:01 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:2.000000:2,(r,393,393),F
+[Thu Nov 20 09:39:02 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:1.750000:2,(r,393,393),F
+[Thu Nov 20 09:39:02 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:1.500000:2,(r,393,393),F
+[Thu Nov 20 09:39:03 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:1.250000:2,(r,393,393),F
+[Thu Nov 20 09:39:03 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:1.000000:2,(r,393,393),F
+[Thu Nov 20 09:39:04 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:0.750000:2,(r,393,393),F
+[Thu Nov 20 09:39:04 UTC 2025][INFO] [Action] E UpdateStyle - (c,393,1),47:0.500000:2,(r,393,393),F
+[Thu Nov 20 09:39:21 UTC 2025][INFO] [Action] E UpdateStyle - (r,393,405),11:SourceCodePro,monospace:4,(r,393,405),F
+[Thu Nov 20 09:39:26 UTC 2025][INFO] [Action] E UpdateStyle - (r,393,405),11:Bookerly,serif:4,(r,393,405),F
+[Thu Nov 20 09:39:31 UTC 2025][INFO] [Action] E UpdateStyle - (r,393,405),11:AmazonEmber,sans-serif:4,(r,393,405),F
+[Thu Nov 20 09:39:48 UTC 2025][INFO] [Action] E ApplySemantics - (r,4349,4349),chapter_title
+[Thu Nov 20 09:40:08 UTC 2025][INFO] [Action] E ApplySemantics - (r,4369,4369),chapter_subtitle
+[Thu Nov 20 09:40:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,4369,2),47:1.000000:2,(r,4369,4369),F
+[Thu Nov 20 09:40:20 UTC 2025][INFO] [Action] E UpdateStyle - (c,4369,2),47:1.250000:2,(r,4369,4369),F
+[Thu Nov 20 09:40:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,4369,2),47:1.000000:2,(r,4369,4369),F
+[Thu Nov 20 09:40:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,4369,2),47:0.750000:2,(r,4369,4369),F
+[Thu Nov 20 09:40:22 UTC 2025][INFO] [Action] E UpdateStyle - (c,4369,2),47:0.500000:2,(r,4369,4369),F
+[Thu Nov 20 09:40:24 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:40:25 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:40:25 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:40:26 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:40:26 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 09:40:27 UTC 2025][INFO] [Action] U ApplySemantics
+[Thu Nov 20 09:40:32 UTC 2025][INFO] [Action] E ItemChanged - -1,10848
+[Thu Nov 20 09:40:35 UTC 2025][INFO] [Action] E ApplySemantics - (r,10848,10848),chapter_title
+[Thu Nov 20 09:40:38 UTC 2025][INFO] [Action] E ItemChanged - -1,17311
+[Thu Nov 20 09:40:40 UTC 2025][INFO] [Action] E ApplySemantics - (r,17311,17311),chapter_title
+[Thu Nov 20 09:40:42 UTC 2025][INFO] [Action] E ItemChanged - -1,21882
+[Thu Nov 20 09:40:44 UTC 2025][INFO] [Action] E ApplySemantics - (r,21882,21882),chapter_title
+[Thu Nov 20 09:40:45 UTC 2025][INFO] [Action] E ItemChanged - -1,35993
+[Thu Nov 20 09:40:47 UTC 2025][INFO] [Action] E ApplySemantics - (r,35993,35993),chapter_title
+[Thu Nov 20 09:40:49 UTC 2025][INFO] [Action] E ItemChanged - -1,44296
+[Thu Nov 20 09:40:51 UTC 2025][INFO] [Action] E ApplySemantics - (r,44296,44296),chapter_title
+[Thu Nov 20 09:40:53 UTC 2025][INFO] [Action] E ItemChanged - -1,59271
+[Thu Nov 20 09:40:55 UTC 2025][INFO] [Action] E ApplySemantics - (r,59271,59271),chapter_title
+[Thu Nov 20 09:40:56 UTC 2025][INFO] [Action] E ItemChanged - -1,69039
+[Thu Nov 20 09:40:57 UTC 2025][INFO] [Action] E ApplySemantics - (r,69039,69039),chapter_title
+[Thu Nov 20 09:40:59 UTC 2025][INFO] [Action] E ItemChanged - -1,75546
+[Thu Nov 20 09:41:00 UTC 2025][INFO] [Action] E ApplySemantics - (r,75546,75546),chapter_title
+[Thu Nov 20 09:41:04 UTC 2025][INFO] [Action] E ItemChanged - -1,82624
+[Thu Nov 20 09:41:05 UTC 2025][INFO] [Action] E ApplySemantics - (r,82624,82624),chapter_title
+[Thu Nov 20 09:41:13 UTC 2025][INFO] [Action] E ItemChanged - -1,99304
+[Thu Nov 20 09:41:16 UTC 2025][INFO] [Action] E ApplySemantics - (r,99304,99304),chapter_title
+[Thu Nov 20 09:41:19 UTC 2025][INFO] [Action] E ItemChanged - -1,115302
+[Thu Nov 20 09:41:33 UTC 2025][INFO] [Action] E ApplySemantics - (r,115302,115302),chapter_title
+[Thu Nov 20 09:41:36 UTC 2025][INFO] [Action] E ItemChanged - -1,126389
+[Thu Nov 20 09:41:41 UTC 2025][INFO] [Action] E ApplySemantics - (r,126389,126389),chapter_title
+[Thu Nov 20 09:41:45 UTC 2025][INFO] [Action] E ItemChanged - -1,132215
+[Thu Nov 20 09:41:47 UTC 2025][INFO] [Action] E ApplySemantics - (r,132215,132215),chapter_title
+[Thu Nov 20 09:41:50 UTC 2025][INFO] [Action] E ItemChanged - -1,139475
+[Thu Nov 20 09:41:51 UTC 2025][INFO] [Action] E ApplySemantics - (r,139475,139475),chapter_title
+[Thu Nov 20 09:41:54 UTC 2025][INFO] [Action] E ItemChanged - -1,148530
+[Thu Nov 20 09:41:56 UTC 2025][INFO] [Action] E ApplySemantics - (r,148530,148530),chapter_title
+[Thu Nov 20 09:41:59 UTC 2025][INFO] [Action] E ItemChanged - -1,155356
+[Thu Nov 20 09:42:01 UTC 2025][INFO] [Action] E ApplySemantics - (r,155356,155356),chapter_title
+[Thu Nov 20 09:42:05 UTC 2025][INFO] [Action] E ItemChanged - -1,165910
+[Thu Nov 20 09:42:07 UTC 2025][INFO] [Action] E ApplySemantics - (r,165910,165910),chapter_title
+[Thu Nov 20 09:42:23 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:2.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:42:23 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:20.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:42:28 UTC 2025][INFO] [Action] E ItemChanged - -1,155356
+[Thu Nov 20 09:42:29 UTC 2025][INFO] [Action] E ItemChanged - -1,165910
+[Thu Nov 20 09:42:34 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),13:361:3,(r,165910,165919),F
+[Thu Nov 20 09:42:35 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),13:350:3,(r,165910,165919),F
+[Thu Nov 20 09:42:35 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),13:361:3,(r,165910,165919),F
+[Thu Nov 20 09:42:47 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:10.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:42:50 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:1.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:42:50 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:18.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:43:01 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:1.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:43:03 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:2.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:43:04 UTC 2025][INFO] [Action] E UpdateStyle - (r,165910,165919),16:25.000000:2,(r,165910,165919),F
+[Thu Nov 20 09:43:22 UTC 2025][INFO] [Action] E ItemChanged - -1,115302
+[Thu Nov 20 09:43:23 UTC 2025][INFO] [Action] E ItemChanged - -1,126389
+[Thu Nov 20 09:43:24 UTC 2025][INFO] [Action] E ItemChanged - -1,132215
+[Thu Nov 20 09:43:25 UTC 2025][INFO] [Action] E ItemChanged - -1,139475
+[Thu Nov 20 09:43:26 UTC 2025][INFO] [Action] E ItemChanged - -1,148530
+[Thu Nov 20 09:43:27 UTC 2025][INFO] [Action] E ItemChanged - -1,148530
+[Thu Nov 20 09:43:28 UTC 2025][INFO] [Action] E ItemChanged - -1,155356
+[Thu Nov 20 09:43:30 UTC 2025][INFO] [Action] E ItemChanged - -1,165910
+[Thu Nov 20 09:43:32 UTC 2025][INFO] [Action] E ItemChanged - -1,174283
+[Thu Nov 20 09:43:34 UTC 2025][INFO] [Action] E ApplySemantics - (r,174283,174283),chapter_title
+[Thu Nov 20 09:43:38 UTC 2025][INFO] [Action] E ItemChanged - -1,182393
+[Thu Nov 20 09:43:39 UTC 2025][INFO] [Action] E ApplySemantics - (r,182393,182393),chapter_title
+[Thu Nov 20 09:43:43 UTC 2025][INFO] [Action] E ItemChanged - -1,189611
+[Thu Nov 20 09:43:48 UTC 2025][INFO] [Action] E ApplySemantics - (r,189611,189611),chapter_title
+[Thu Nov 20 09:43:51 UTC 2025][INFO] [Action] E ItemChanged - -1,197721
+[Thu Nov 20 09:43:54 UTC 2025][INFO] [Action] E ApplySemantics - (r,197721,197721),chapter_title
+[Thu Nov 20 09:44:04 UTC 2025][INFO] [Action] E ItemChanged - -1,206046
+[Thu Nov 20 09:44:05 UTC 2025][INFO] [Action] E ApplySemantics - (r,206046,206046),chapter_title
+[Thu Nov 20 09:44:10 UTC 2025][INFO] [Action] E ItemChanged - -1,220500
+[Thu Nov 20 09:44:12 UTC 2025][INFO] [Action] E ApplySemantics - (r,220500,220500),chapter_title
+[Thu Nov 20 09:44:16 UTC 2025][INFO] [Action] E ItemChanged - -1,226348
+[Thu Nov 20 09:44:18 UTC 2025][INFO] [Action] E ApplySemantics - (r,226348,226348),chapter_title
+[Thu Nov 20 09:44:25 UTC 2025][INFO] [Action] E ItemChanged - -1,239989
+[Thu Nov 20 09:44:27 UTC 2025][INFO] [Action] E ApplySemantics - (r,239989,239989),chapter_title
+[Thu Nov 20 09:44:29 UTC 2025][INFO] [Action] E ItemChanged - -1,248763
+[Thu Nov 20 09:44:31 UTC 2025][INFO] [Action] E ApplySemantics - (r,248763,248763),chapter_title
+[Thu Nov 20 09:44:41 UTC 2025][INFO] [Action] E ItemChanged - -1,264467
+[Thu Nov 20 09:44:44 UTC 2025][INFO] [Action] E ApplySemantics - (r,264467,264467),chapter_title
+[Thu Nov 20 09:44:49 UTC 2025][INFO] [Action] E ItemChanged - -1,275381
+[Thu Nov 20 09:44:50 UTC 2025][INFO] [Action] E ApplySemantics - (r,275381,275381),chapter_title
+[Thu Nov 20 09:44:53 UTC 2025][INFO] [Action] E ItemChanged - -1,288243
+[Thu Nov 20 09:44:55 UTC 2025][INFO] [Action] E ApplySemantics - (r,288243,288243),chapter_title
+[Thu Nov 20 09:44:57 UTC 2025][INFO] [Action] E ItemChanged - -1,297030
+[Thu Nov 20 09:44:59 UTC 2025][INFO] [Action] E ApplySemantics - (r,297030,297030),chapter_title
+[Thu Nov 20 09:45:03 UTC 2025][INFO] [Action] E ItemChanged - -1,307168
+[Thu Nov 20 09:45:05 UTC 2025][INFO] [Action] E ApplySemantics - (r,307168,307168),chapter_title
+[Thu Nov 20 09:45:12 UTC 2025][INFO] [Action] E UpdateStyle - (r,307168,307177),13:350:3,(r,307168,307177),F
+[Thu Nov 20 09:45:19 UTC 2025][INFO] [Action] E UpdateStyle - (r,307168,307177),13:361:3,(r,307168,307177),F
+[Thu Nov 20 09:45:30 UTC 2025][INFO] [Action] E ItemChanged - -1,315054
+[Thu Nov 20 09:45:32 UTC 2025][INFO] [Action] E ApplySemantics - (r,315054,315054),chapter_title
+[Thu Nov 20 09:45:37 UTC 2025][INFO] [Action] E ItemChanged - -1,322092
+[Thu Nov 20 09:45:39 UTC 2025][INFO] [Action] E ApplySemantics - (r,322092,322092),chapter_title
+[Thu Nov 20 09:45:43 UTC 2025][INFO] [Action] E ItemChanged - -1,327013
+[Thu Nov 20 09:45:44 UTC 2025][INFO] [Action] E ApplySemantics - (r,327013,327013),chapter_title
+[Thu Nov 20 09:45:54 UTC 2025][INFO] [Action] E UpdateStyle - (c,327013,1),49:0.250000:2,(r,327013,327013),F
+[Thu Nov 20 09:45:56 UTC 2025][INFO] [Action] E UpdateStyle - (c,327013,1),49:0.500000:2,(r,327013,327013),F
+[Thu Nov 20 09:45:58 UTC 2025][INFO] [Action] E UpdateStyle - (c,327013,1),49:0.250000:2,(r,327013,327013),F
+[Thu Nov 20 09:46:02 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 09:46:04 UTC 2025][INFO] [Action] E ItemChanged - -1,322092
+[Thu Nov 20 09:46:06 UTC 2025][INFO] [Action] E ItemChanged - -1,315054
+[Thu Nov 20 09:46:07 UTC 2025][INFO] [Action] E ItemChanged - -1,307168
+[Thu Nov 20 09:46:11 UTC 2025][INFO] [Action] E ItemChanged - -1,327013
+[Thu Nov 20 09:46:17 UTC 2025][INFO] [Action] E ItemChanged - -1,333495
+[Thu Nov 20 09:46:22 UTC 2025][INFO] [Action] E ApplySemantics - (r,333495,333495),chapter_title
+[Thu Nov 20 09:46:26 UTC 2025][INFO] [Action] E ItemChanged - -1,339446
+[Thu Nov 20 09:46:27 UTC 2025][INFO] [Action] E ApplySemantics - (r,339446,339446),chapter_title
+[Thu Nov 20 09:46:30 UTC 2025][INFO] [Action] E ItemChanged - -1,343424
+[Thu Nov 20 09:46:32 UTC 2025][INFO] [Action] E ApplySemantics - (r,343424,343424),chapter_title
+[Thu Nov 20 09:46:37 UTC 2025][INFO] [Action] E ItemChanged - -1,353952
+[Thu Nov 20 09:46:38 UTC 2025][INFO] [Action] E ApplySemantics - (r,353952,353952),chapter_title
+[Thu Nov 20 09:46:41 UTC 2025][INFO] [Action] E ItemChanged - -1,358747
+[Thu Nov 20 09:46:43 UTC 2025][INFO] [Action] E ApplySemantics - (r,358747,358747),chapter_title
+[Thu Nov 20 09:46:46 UTC 2025][INFO] [Action] E ItemChanged - -1,361331
+[Thu Nov 20 09:46:48 UTC 2025][INFO] [Action] E ApplySemantics - (r,361331,361331),chapter_title
+[Thu Nov 20 09:46:51 UTC 2025][INFO] [Action] E ItemChanged - -1,373090
+[Thu Nov 20 09:46:53 UTC 2025][INFO] [Action] E ApplySemantics - (r,373090,373090),chapter_title
+[Thu Nov 20 09:46:56 UTC 2025][INFO] [Action] E ItemChanged - -1,384579
+[Thu Nov 20 09:46:58 UTC 2025][INFO] [Action] E ApplySemantics - (r,384579,384579),chapter_title
+[Thu Nov 20 09:47:01 UTC 2025][INFO] [Action] E ItemChanged - -1,403948
+[Thu Nov 20 09:47:04 UTC 2025][INFO] [Action] E ApplySemantics - (r,403948,403948),chapter_title
+[Thu Nov 20 09:47:27 UTC 2025][INFO] [Action] E ItemChanged - -1,413035
+[Thu Nov 20 09:47:28 UTC 2025][INFO] [Action] E ApplySemantics - (r,413035,413035),chapter_title
+[Thu Nov 20 09:47:31 UTC 2025][INFO] [Action] E ItemChanged - -1,419490
+[Thu Nov 20 09:47:34 UTC 2025][INFO] [Action] E ApplySemantics - (r,419490,419490),chapter_title
+[Thu Nov 20 09:47:37 UTC 2025][INFO] [Action] E ItemChanged - -1,426358
+[Thu Nov 20 09:47:38 UTC 2025][INFO] [Action] E ApplySemantics - (r,426358,426358),chapter_title
+[Thu Nov 20 09:47:41 UTC 2025][INFO] [Action] E ItemChanged - -1,436473
+[Thu Nov 20 09:47:42 UTC 2025][INFO] [Action] E ApplySemantics - (r,436473,436473),chapter_title
+[Thu Nov 20 09:47:45 UTC 2025][INFO] [Action] E ItemChanged - -1,443030
+[Thu Nov 20 09:47:47 UTC 2025][INFO] [Action] E ApplySemantics - (r,443030,443030),chapter_title
+[Thu Nov 20 09:47:49 UTC 2025][INFO] [Action] E ItemChanged - -1,451684
+[Thu Nov 20 09:47:52 UTC 2025][INFO] [Action] E ApplySemantics - (r,451684,451684),chapter_title
+[Thu Nov 20 09:47:55 UTC 2025][INFO] [Action] E DeleteContent - (c,451717,2),B
+[Thu Nov 20 09:47:55 UTC 2025][INFO] [Action] E InsertTextContent - (c,451717,1),[o]
+[Thu Nov 20 09:48:00 UTC 2025][INFO] [Action] E ItemChanged - -1,470031
+[Thu Nov 20 09:48:03 UTC 2025][INFO] [Action] E ApplySemantics - (r,470031,470031),chapter_title
+[Thu Nov 20 09:48:05 UTC 2025][INFO] [Action] E ItemChanged - -1,451684
+[Thu Nov 20 09:48:07 UTC 2025][INFO] [Action] E ItemChanged - -1,473361
+[Thu Nov 20 09:48:09 UTC 2025][INFO] [Action] E ApplySemantics - (r,473361,473361),chapter_title
+[Thu Nov 20 09:48:11 UTC 2025][INFO] [Action] E ItemChanged - -1,470031
+[Thu Nov 20 09:48:14 UTC 2025][INFO] [Action] E ItemChanged - -1,473361
+[Thu Nov 20 09:48:15 UTC 2025][INFO] [Action] E ItemChanged - -1,480823
+[Thu Nov 20 09:48:17 UTC 2025][INFO] [Action] E ApplySemantics - (r,480823,480823),chapter_title
+[Thu Nov 20 09:48:20 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:48:22 UTC 2025][INFO] [Action] E ApplySemantics - (r,485699,485699),chapter_title
+[Thu Nov 20 09:48:24 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:48:28 UTC 2025][INFO] [Action] E ApplySemantics - (r,490098,490103),chapter_title
+[Thu Nov 20 09:48:31 UTC 2025][INFO] [Action] E AddTextContainer - (c,490089,1),1,0,0
+[Thu Nov 20 09:48:31 UTC 2025][INFO] [Action] E AddTextContainer - (c,490090,1),1,0,0
+[Thu Nov 20 09:48:31 UTC 2025][INFO] [Action] E AddTextContainer - (c,490091,1),1,0,0
+[Thu Nov 20 09:48:32 UTC 2025][INFO] [Action] E AddTextContainer - (c,490092,1),1,0,0
+[Thu Nov 20 09:48:32 UTC 2025][INFO] [Action] E AddTextContainer - (c,490093,1),1,0,0
+[Thu Nov 20 09:48:32 UTC 2025][INFO] [Action] E AddTextContainer - (c,490094,1),1,0,0
+[Thu Nov 20 09:48:32 UTC 2025][INFO] [Action] E AddTextContainer - (c,490095,1),1,0,0
+[Thu Nov 20 09:48:33 UTC 2025][INFO] [Action] E AddTextContainer - (c,490096,1),1,0,0
+[Thu Nov 20 09:48:33 UTC 2025][INFO] [Action] E AddTextContainer - (c,490097,1),1,0,0
+[Thu Nov 20 09:48:35 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 09:48:43 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:48:46 UTC 2025][INFO] [Action] E MergeContainer - 490084,0
+[Thu Nov 20 09:48:46 UTC 2025][INFO] [Action] E MergeContainer - 490084,0
+[Thu Nov 20 09:48:47 UTC 2025][INFO] [Action] E MergeContainer - 490084,0
+[Thu Nov 20 09:48:47 UTC 2025][INFO] [Action] E RemoveSectionBreak - 490084,1
+[Thu Nov 20 09:48:47 UTC 2025][INFO] [Action] E MergeContainer - 490085,0
+[Thu Nov 20 09:48:48 UTC 2025][INFO] [Action] E MergeContainer - 490085,0
+[Thu Nov 20 09:48:49 UTC 2025][INFO] [Action] E MergeContainer - 490085,0
+[Thu Nov 20 09:48:50 UTC 2025][INFO] [Action] E AddTextContainer - (c,490085,2),0,0,0
+[Thu Nov 20 09:48:51 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:48:52 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:48:54 UTC 2025][INFO] [Action] E ApplySemantics - (r,490107,490107),chapter_title
+[Thu Nov 20 09:49:03 UTC 2025][INFO] [Action] E UpdateStyle - (r,490109,490571),34:59:3,(r,490109,490571),F
+[Thu Nov 20 09:49:05 UTC 2025][INFO] [Action] E UpdateStyle - (r,490109,490571),34:320:3,(r,490109,490571),F
+[Thu Nov 20 09:49:08 UTC 2025][INFO] [Action] E AddTextContainer - (c,490455,2),0,0,0
+[Thu Nov 20 09:49:15 UTC 2025][INFO] [Action] E AddTextContainer - (c,490093,1),1,0,0
+[Thu Nov 20 09:49:16 UTC 2025][INFO] [Action] E AddTextContainer - (c,490094,1),1,0,0
+[Thu Nov 20 09:49:16 UTC 2025][INFO] [Action] E AddTextContainer - (c,490095,1),1,0,0
+[Thu Nov 20 09:49:16 UTC 2025][INFO] [Action] E AddTextContainer - (c,490096,1),1,0,0
+[Thu Nov 20 09:49:16 UTC 2025][INFO] [Action] E AddTextContainer - (c,490097,1),1,0,0
+[Thu Nov 20 09:49:17 UTC 2025][INFO] [Action] E AddTextContainer - (c,490098,1),1,0,0
+[Thu Nov 20 09:49:17 UTC 2025][INFO] [Action] E AddTextContainer - (c,490099,1),1,0,0
+[Thu Nov 20 09:49:17 UTC 2025][INFO] [Action] E AddTextContainer - (c,490100,1),1,0,0
+[Thu Nov 20 09:49:19 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:19 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:20 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:20 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:20 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:21 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:21 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:21 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:22 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:24 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:49:27 UTC 2025][INFO] [Action] E DeleteContent - (r,490084,490091),B
+[Thu Nov 20 09:49:28 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:49:30 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:49:32 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 09:49:33 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:49:35 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:49:37 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:49:38 UTC 2025][INFO] [Action] E DeleteContent - (r,490084,490091),B
+[Thu Nov 20 09:49:41 UTC 2025][INFO] [Action] E AddTextContainer - (c,490084,1),1,0,0
+[Thu Nov 20 09:49:41 UTC 2025][INFO] [Action] E AddTextContainer - (c,490085,1),1,0,0
+[Thu Nov 20 09:49:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,490086,1),1,0,0
+[Thu Nov 20 09:49:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,490087,1),1,0,0
+[Thu Nov 20 09:49:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,490088,1),1,0,0
+[Thu Nov 20 09:49:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,490089,1),1,0,0
+[Thu Nov 20 09:49:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,490090,1),1,0,0
+[Thu Nov 20 09:49:43 UTC 2025][INFO] [Action] E AddTextContainer - (c,490091,1),1,0,0
+[Thu Nov 20 09:49:43 UTC 2025][INFO] [Action] E AddTextContainer - (c,490092,1),1,0,0
+[Thu Nov 20 09:49:43 UTC 2025][INFO] [Action] E AddTextContainer - (c,490093,1),1,0,0
+[Thu Nov 20 09:49:43 UTC 2025][INFO] [Action] E AddTextContainer - (c,490094,1),1,0,0
+[Thu Nov 20 09:49:45 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:45 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 09:49:49 UTC 2025][INFO] [Action] E AddTextContainer - (c,490456,1),1,0,0
+[Thu Nov 20 09:49:58 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:49:59 UTC 2025][INFO] [Action] E ItemChanged - -1,490084
+[Thu Nov 20 09:50:05 UTC 2025][INFO] [Action] E MergeContainer - 490085,0
+[Thu Nov 20 09:50:08 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 09:50:13 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:50:15 UTC 2025][INFO] [Action] E ItemChanged - -1,480823
+[Thu Nov 20 09:50:16 UTC 2025][INFO] [Action] E ItemChanged - -1,485699
+[Thu Nov 20 09:50:17 UTC 2025][INFO] [Action] E ItemChanged - -1,480823
+[Thu Nov 20 09:50:18 UTC 2025][INFO] [Action] E ItemChanged - -1,473361
+[Thu Nov 20 09:50:20 UTC 2025][INFO] [Action] E ItemChanged - -1,470031
+[Thu Nov 20 09:50:21 UTC 2025][INFO] [Action] E ItemChanged - -1,451684
+[Thu Nov 20 09:51:16 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Thu Nov 20 09:53:10 UTC 2025][INFO] [Action] EE ExportAction
+[Thu Nov 20 09:53:13 UTC 2025][INFO] [Action] E ItemChanged - -1,285
+[Thu Nov 20 09:53:14 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 09:53:18 UTC 2025][INFO] [Action] E MergeContainer - 24,0
+[Thu Nov 20 09:53:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:0.250000:2,(r,36,36),F
+[Thu Nov 20 09:53:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:0.500000:2,(r,36,36),F
+[Thu Nov 20 09:53:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:0.750000:2,(r,36,36),F
+[Thu Nov 20 09:53:26 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:1.000000:2,(r,36,36),F
+[Thu Nov 20 09:53:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:1.250000:2,(r,36,36),F
+[Thu Nov 20 09:53:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:1.500000:2,(r,36,36),F
+[Thu Nov 20 09:53:27 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:1.750000:2,(r,36,36),F
+[Thu Nov 20 09:53:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:2.000000:2,(r,36,36),F
+[Thu Nov 20 09:53:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:2.250000:2,(r,36,36),F
+[Thu Nov 20 09:53:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:2.500000:2,(r,36,36),F
+[Thu Nov 20 09:53:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:2.750000:2,(r,36,36),F
+[Thu Nov 20 09:53:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:3.000000:2,(r,36,36),F
+[Thu Nov 20 09:53:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:3.250000:2,(r,36,36),F
+[Thu Nov 20 09:53:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:3.500000:2,(r,36,36),F
+[Thu Nov 20 09:53:29 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:3.750000:2,(r,36,36),F
+[Thu Nov 20 09:53:30 UTC 2025][INFO] [Action] E UpdateStyle - (c,36,2),47:4.000000:2,(r,36,36),F
+[Thu Nov 20 09:53:33 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 09:53:36 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Thu Nov 20 09:54:09 UTC 2025][INFO] [Action] EE ExportAction
+[Thu Nov 20 09:54:14 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 09:54:16 UTC 2025][INFO] Logger Terminated
+[Thu Nov 20 09:56:26 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Thu Nov 20 09:56:35 UTC 2025][INFO] [Action] E InsertTocAction - (0)
+[Thu Nov 20 09:56:41 UTC 2025][INFO] [Action] U InsertTocAction
+[Thu Nov 20 09:58:11 UTC 2025][INFO] [Action] EE ClearFormatting - (c,392,1)
+[Thu Nov 20 09:58:15 UTC 2025][INFO] [Action] E UpdateStyle - (c,392,1),34:320:3,(r,392,392),F
+[Thu Nov 20 09:58:23 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),13:361:3,(r,392,404),F
+[Thu Nov 20 09:58:28 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),49:0.250000:2,(r,392,404),F
+[Thu Nov 20 09:58:29 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),49:0.500000:2,(r,392,404),F
+[Thu Nov 20 09:58:29 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),49:0.750000:2,(r,392,404),F
+[Thu Nov 20 09:58:29 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),49:1.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:32 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),47:0.250000:2,(r,392,404),F
+[Thu Nov 20 09:58:33 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),47:0.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:34 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),47:0.250000:2,(r,392,404),F
+[Thu Nov 20 09:58:34 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),47:0.500000:2,(r,392,404),F
+[Thu Nov 20 09:58:34 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),47:0.750000:2,(r,392,404),F
+[Thu Nov 20 09:58:37 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:1.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:39 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:1.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:39 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:19.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:49 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:1.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:50 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:2.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:51 UTC 2025][INFO] [Action] E UpdateStyle - (r,392,404),16:25.000000:2,(r,392,404),F
+[Thu Nov 20 09:58:56 UTC 2025][INFO] [Action] E MergeContainer - 404,0
+[Thu Nov 20 09:58:57 UTC 2025][INFO] [Action] U MergeContainer
+[Thu Nov 20 09:59:00 UTC 2025][INFO] [Action] E UpdateStyle - (c,404,2),49:0.750000:2,(r,404,404),F
+[Thu Nov 20 09:59:01 UTC 2025][INFO] [Action] E UpdateStyle - (c,404,2),49:0.500000:2,(r,404,404),F
+[Thu Nov 20 09:59:02 UTC 2025][INFO] [Action] E UpdateStyle - (c,404,2),49:0.250000:2,(r,404,404),F
+[Thu Nov 20 09:59:06 UTC 2025][INFO] [Action] E UpdateStyle - (c,404,2),47:1.000000:2,(r,404,404),F
+[Thu Nov 20 09:59:08 UTC 2025][INFO] [Action] E UpdateStyle - (c,404,2),47:0.750000:2,(r,404,404),F
+[Thu Nov 20 09:59:25 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),42:1.250000:2,(r,67,67),F
+[Thu Nov 20 09:59:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:5.750000:2,(r,67,67),F
+[Thu Nov 20 09:59:28 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:5.500000:2,(r,67,67),F
+[Thu Nov 20 09:59:30 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:5.750000:2,(r,67,67),F
+[Thu Nov 20 09:59:31 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:6.000000:2,(r,67,67),F
+[Thu Nov 20 09:59:37 UTC 2025][INFO] [Action] E MergeContainer - 37,0
+[Thu Nov 20 09:59:38 UTC 2025][INFO] [Action] U MergeContainer
+[Thu Nov 20 09:59:41 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:42 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:42 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:43 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:49 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:6.000000:2,(r,38,38),F
+[Thu Nov 20 09:59:53 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:54 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:54 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),47:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:57 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),49:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:57 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),49:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:57 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),49:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:58 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),49:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:58 UTC 2025][INFO] [Action] E UpdateStyle - (c,37,2),49:0.250000:2,(r,38,38),F
+[Thu Nov 20 09:59:59 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:00 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:00 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:00 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:01 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:01 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:02 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:02 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:03 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:04 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:04 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:05 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:05 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:06 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:06 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:07 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:07 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:11 UTC 2025][INFO] [Action] E UpdateStyle - (c,68,1),42:1.250000:2,(r,68,68),F
+[Thu Nov 20 10:00:13 UTC 2025][INFO] [Action] E UpdateStyle - (c,68,1),42:1.000000:2,(r,68,68),F
+[Thu Nov 20 10:00:18 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:5.750000:2,(r,67,67),F
+[Thu Nov 20 10:00:21 UTC 2025][INFO] [Action] E UpdateStyle - (c,67,2),47:6.000000:2,(r,67,67),F
+[Thu Nov 20 10:00:30 UTC 2025][INFO] [Action] E AddTextContainer - (c,37,1),1,0,0
+[Thu Nov 20 10:00:31 UTC 2025][INFO] [Action] U AddTextContainer
+[Thu Nov 20 10:00:33 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:34 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:00:46 UTC 2025][INFO] [Action] E UpdateStyle - (c,38,1),47:0.000000:2,(r,38,38),F
+[Thu Nov 20 10:00:52 UTC 2025][INFO] [Action] E UpdateStyle - (c,38,1),47:5.000000:2,(r,38,38),F
+[Thu Nov 20 10:00:56 UTC 2025][INFO] [Action] E UpdateStyle - (c,38,1),47:5.800000:2,(r,38,38),F
+[Thu Nov 20 10:01:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:01:11 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:01:12 UTC 2025][INFO] [Action] U UpdateStyle
+[Thu Nov 20 10:01:19 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 10:01:25 UTC 2025][INFO] [Action] E MergeContainer - 292,0
+[Thu Nov 20 10:01:27 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:28 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:28 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:28 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:29 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:29 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:30 UTC 2025][INFO] [Action] E MergeContainer - 287,0
+[Thu Nov 20 10:01:32 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:0.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:33 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:0.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:33 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:0.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:33 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:1.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:33 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:1.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:33 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:1.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:34 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:1.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:34 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:2.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:34 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:2.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:35 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:2.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:35 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:2.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:35 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:3.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:35 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:3.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:3.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:3.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:4.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:36 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:4.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:4.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:4.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:37 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:5.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:5.250000:2,(r,287,287),F
+[Thu Nov 20 10:01:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:5.500000:2,(r,287,287),F
+[Thu Nov 20 10:01:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:5.750000:2,(r,287,287),F
+[Thu Nov 20 10:01:38 UTC 2025][INFO] [Action] E UpdateStyle - (c,287,1),47:6.000000:2,(r,287,287),F
+[Thu Nov 20 10:01:49 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 10:02:04 UTC 2025][INFO] [Action] E InsertTocAction - (2)
+[Thu Nov 20 10:02:13 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:18 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:19 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:21 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:23 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:43 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:46 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:48 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:50 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:52 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:02:53 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:03:01 UTC 2025][INFO] [Action] U InsertTocAction
+[Thu Nov 20 10:03:44 UTC 2025][INFO] [Action] E InsertTocAction - (3)
+[Thu Nov 20 10:03:47 UTC 2025][INFO] [Action] E ItemChanged - -1,941
+[Thu Nov 20 10:03:55 UTC 2025][INFO] [Action] E Copy - (r,954,4895)
+[Thu Nov 20 10:05:32 UTC 2025][INFO] [Action] E ItemChanged - -1,841
+[Thu Nov 20 10:05:34 UTC 2025][INFO] [Action] E ItemChanged - -1,941
+[Thu Nov 20 10:05:35 UTC 2025][INFO] [Action] E ItemChanged - -1,841
+[Thu Nov 20 10:05:35 UTC 2025][INFO] [Action] E ItemChanged - -1,558
+[Thu Nov 20 10:05:44 UTC 2025][INFO] [Action] E Copy - (r,612,624)
+[Thu Nov 20 10:05:57 UTC 2025][INFO] [Action] E FixedFormAction - MCwxLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiSm9obiBDLiBMdW5kdCJ9LHsibmFtZSI6ImNvcHlyaWdodF95ZWFyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IjIwMjUifSx7Im5hbWUiOiJjb3B5cmlnaHRfdGV4dCIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJBbGwgcmlnaHRzIHJlc2VydmVkXG5cblRoZSBjaGFyYWN0ZXJzIGFuZCBldmVudHMgcG9ydHJheWVkIGluIHRoaXMgYm9vayBhcmUgZmljdGl0aW91cy4gQW55IHNpbWlsYXJpdHkgdG8gcmVhbCBwZXJzb25zLCBsaXZpbmcgb3IgZGVhZCwgaXMgY29pbmNpZGVudGFsIGFuZCBub3QgaW50ZW5kZWQgYnkgdGhlIGF1dGhvci5cblxuTm8gcGFydCBvZiB0aGlzIGJvb2sgbWF5IGJlIHJlcHJvZHVjZWQsIG9yIHN0b3JlZCBpbiBhIHJldHJpZXZhbCBzeXN0ZW0sIG9yIHRyYW5zbWl0dGVkIGluIGFueSBmb3JtIG9yIGJ5IGFueSBtZWFucywgZWxlY3Ryb25pYywgbWVjaGFuaWNhbCwgcGhvdG9jb3B5aW5nLCByZWNvcmRpbmcsIG9yIG90aGVyd2lzZSwgd2l0aG91dCBleHByZXNzIHdyaXR0ZW4gcGVybWlzc2lvbiBvZiB0aGUgcHVibGlzaGVyLlxuXG5JU0JOLTEzOiA5NzgxMjM0NTY3ODkwXG5JU0JOLTEwOiAxNDc3MTIzNDU2XG5cbkNvdmVyIGRlc2lnbiBieTogQXJ0IFBhaW50ZXJcbkxpYnJhcnkgb2YgQ29uZ3Jlc3MgQ29udHJvbCBOdW1iZXI6IDIwMTg2NzUzMDlcblByaW50ZWQgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgb2YgQW1lcmljYSJ9XSwicGFnZV90eXBlIjoiY29weXJpZ2h0In0K
+[Thu Nov 20 10:06:16 UTC 2025][INFO] [Action] E FixedFormAction - MSwwLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJjb3B5cmlnaHRfb3duZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiSm9obiBDLiBMdW5kdCJ9LHsibmFtZSI6ImNvcHlyaWdodF95ZWFyIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IjIwMjUifSx7Im5hbWUiOiJjb3B5cmlnaHRfdGV4dCIsInR5cGUiOiJ0ZXh0IiwidmFsdWUiOiJBbGwgcmlnaHRzIHJlc2VydmVkXG5cblRoZSBjaGFyYWN0ZXJzIGFuZCBldmVudHMgcG9ydHJheWVkIGluIHRoaXMgYm9vayBhcmUgZmljdGl0aW91cy4gQW55IHNpbWlsYXJpdHkgdG8gcmVhbCBwZXJzb25zLCBsaXZpbmcgb3IgZGVhZCwgaXMgY29pbmNpZGVudGFsIGFuZCBub3QgaW50ZW5kZWQgYnkgdGhlIGF1dGhvci5cblxuTm8gcGFydCBvZiB0aGlzIGJvb2sgbWF5IGJlIHJlcHJvZHVjZWQsIG9yIHN0b3JlZCBpbiBhIHJldHJpZXZhbCBzeXN0ZW0sIG9yIHRyYW5zbWl0dGVkIGluIGFueSBmb3JtIG9yIGJ5IGFueSBtZWFucywgZWxlY3Ryb25pYywgbWVjaGFuaWNhbCwgcGhvdG9jb3B5aW5nLCByZWNvcmRpbmcsIG9yIG90aGVyd2lzZSwgd2l0aG91dCBleHByZXNzIHdyaXR0ZW4gcGVybWlzc2lvbiBvZiB0aGUgcHVibGlzaGVyLlxuXG5JU0JOLTEzOiA5NzgxMjM0NTY3ODkwXG5JU0JOLTEwOiAxNDc3MTIzNDU2XG5cbkNvdmVyIGRlc2lnbiBieTogQXJ0IFBhaW50ZXJcbkxpYnJhcnkgb2YgQ29uZ3Jlc3MgQ29udHJvbCBOdW1iZXI6IDIwMTg2NzUzMDlcblByaW50ZWQgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgb2YgQW1lcmljYSJ9XSwicGFnZV90eXBlIjoiY29weXJpZ2h0In0K
+[Thu Nov 20 10:06:20 UTC 2025][INFO] [Action] E ItemChanged - -1,608
+[Thu Nov 20 10:06:21 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:06:22 UTC 2025][INFO] [Action] E ItemChanged - -1,608
+[Thu Nov 20 10:06:23 UTC 2025][INFO] [Action] E ItemChanged - -1,1557
+[Thu Nov 20 10:06:24 UTC 2025][INFO] [Action] E ItemChanged - -1,1457
+[Thu Nov 20 10:06:27 UTC 2025][INFO] [Action] E ItemChanged - -1,1174
+[Thu Nov 20 10:06:30 UTC 2025][INFO] [Action] E MergeContainer - 1210,0
+[Thu Nov 20 10:06:31 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:31 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:32 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:33 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:34 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:35 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:36 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:37 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:37 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1210),F
+[Thu Nov 20 10:06:42 UTC 2025][INFO] [Action] E DeleteContent - (r,1210,1397),F
+[Thu Nov 20 10:06:55 UTC 2025][INFO] [Action] E Cut - (r,1215,1310)
+[Thu Nov 20 10:06:57 UTC 2025][INFO] [Action] E RemoveSectionBreak - 1215,1
+[Thu Nov 20 10:06:59 UTC 2025][INFO] [Action] E MergeContainer - 1213,0
+[Thu Nov 20 10:07:01 UTC 2025][INFO] [Action] E MergeContainer - 1213,0
+[Thu Nov 20 10:07:01 UTC 2025][INFO] [Action] E MergeContainer - 1213,0
+[Thu Nov 20 10:07:09 UTC 2025][INFO] [Action] E FixedFormAction - MCwzLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJkZWRpY2F0aW9uX3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiRm9yIHRoZSBjb3VudGxlc3Mgd2FycmlvcnMgbGVmdCBiZWhpbmQgYW5kIGZvcmdvdHRlbiBpbiB0aGUgYWZ0ZXJtYXRoIG9mIGhpc3RvcnnigJlzIGVuZGxlc3Mgd2Fycy4ifV0sInBhZ2VfdHlwZSI6ImRlZGljYXRpb24ifQo=
+[Thu Nov 20 10:07:19 UTC 2025][INFO] [Action] E FixedFormAction - MSwxLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJkZWRpY2F0aW9uX3RleHQiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiRm9yIHRoZSBjb3VudGxlc3Mgd2FycmlvcnMgbGVmdCBiZWhpbmQgYW5kIGZvcmdvdHRlbiBpbiB0aGUgYWZ0ZXJtYXRoIG9mIGhpc3RvcnnigJlzIGVuZGxlc3Mgd2Fycy4ifV0sInBhZ2VfdHlwZSI6ImRlZGljYXRpb24ifQo=
+[Thu Nov 20 10:07:21 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:07:22 UTC 2025][INFO] [Action] E ItemChanged - -1,608
+[Thu Nov 20 10:07:23 UTC 2025][INFO] [Action] E ItemChanged - -1,705
+[Thu Nov 20 10:07:25 UTC 2025][INFO] [Action] E ItemChanged - -1,1319
+[Thu Nov 20 10:07:26 UTC 2025][INFO] [Action] E ItemChanged - -1,1281
+[Thu Nov 20 10:07:29 UTC 2025][INFO] [Action] E ItemChanged - -1,1319
+[Thu Nov 20 10:07:31 UTC 2025][INFO] [Action] E ItemChanged - -1,1281
+[Thu Nov 20 10:07:38 UTC 2025][INFO] [Action] E Copy - (r,1281,1316)
+[Thu Nov 20 10:08:11 UTC 2025][INFO] [Action] E FixedFormAction - MCwzLFBST1AtTElTVDp7ImNvbXBvbmVudHMiOlt7Im5hbWUiOiJib29rX3RpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6Ik9keXNzZXkgRnJvbSBPdXRyZW1lciAifSx7Im5hbWUiOiJib29rX3N1YnRpdGxlIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IiJ9LHsibmFtZSI6ImF1dGhvcl9uYW1lIiwidHlwZSI6InRleHQiLCJ2YWx1ZSI6IkpvaG4gQy4gTHVuZHQifSx7Im5hbWUiOiJwdWJsaXNoZXIiLCJ0eXBlIjoidGV4dCIsInZhbHVlIjoiIn0seyJuYW1lIjoicHVibGlzaGVyX2xvZ28iLCJ0eXBlIjoiaW1hZ2UiLCJ2YWx1ZSI6IiJ9XSwicGFnZV90eXBlIjoidGl0bGVfcGFnZSJ9Cg==
+[Thu Nov 20 10:08:16 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:08:18 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Thu Nov 20 10:08:20 UTC 2025][INFO] [Action] E ItemChanged - -1,644
+[Thu Nov 20 10:08:21 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:08:23 UTC 2025][INFO] [Action] E ItemChanged - -1,1327
+[Thu Nov 20 10:08:24 UTC 2025][INFO] [Action] E ItemChanged - -1,1327
+[Thu Nov 20 10:08:26 UTC 2025][INFO] [Action] E DeleteContent - (r,1327,1363),B
+[Thu Nov 20 10:08:27 UTC 2025][INFO] [Action] E ItemChanged - -1,1327
+[Thu Nov 20 10:08:30 UTC 2025][INFO] [Action] E MergeContainer - 1327,0
+[Thu Nov 20 10:08:31 UTC 2025][INFO] [Action] E ItemChanged - -1,5283
+[Thu Nov 20 10:08:33 UTC 2025][INFO] [Action] E ItemChanged - -1,1327
+[Thu Nov 20 10:08:54 UTC 2025][INFO] [Action] E InsertGenericPageAction - 9,4
+[Thu Nov 20 10:08:56 UTC 2025][INFO] [Action] E ItemChanged - -1,1345
+[Thu Nov 20 10:09:00 UTC 2025][INFO] [Action] E Cut - (r,1345,1357)
+[Thu Nov 20 10:09:01 UTC 2025][INFO] [Action] E ItemChanged - -1,1335
+[Thu Nov 20 10:09:03 UTC 2025][INFO] [Action] E ItemChanged - -1,1335
+[Thu Nov 20 10:09:04 UTC 2025][INFO] [Action] EE MovePage - 3,1,44
+[Thu Nov 20 10:09:08 UTC 2025][INFO] [Action] E DeleteContent - (c,748,2),B
+[Thu Nov 20 10:09:08 UTC 2025][INFO] [Action] E DeleteContent - (c,747,2),B
+[Thu Nov 20 10:09:08 UTC 2025][INFO] [Action] E DeleteContent - (c,746,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E DeleteContent - (c,745,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E DeleteContent - (c,744,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E DeleteContent - (c,743,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E DeleteContent - (c,742,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E DeleteContent - (c,741,2),B
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E RemoveSectionBreak - 741,0
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] EFail RemoveSectionBreak - 4
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] E RemoveSectionBreak - 741,0
+[Thu Nov 20 10:09:09 UTC 2025][INFO] [Action] EFail RemoveSectionBreak - 4
+[Thu Nov 20 10:09:10 UTC 2025][INFO] [Action] E RemoveSectionBreak - 741,0
+[Thu Nov 20 10:09:10 UTC 2025][INFO] [Action] EFail RemoveSectionBreak - 4
+[Thu Nov 20 10:09:10 UTC 2025][INFO] [Action] E RemoveSectionBreak - 741,0
+[Thu Nov 20 10:09:10 UTC 2025][INFO] [Action] EFail RemoveSectionBreak - 4
+[Thu Nov 20 10:09:13 UTC 2025][INFO] [Action] E MergeContainer - 741,0
+[Thu Nov 20 10:09:17 UTC 2025][INFO] [Action] E Paste - (c,741,2),15
+[Thu Nov 20 10:09:20 UTC 2025][INFO] [Action] E ItemChanged - -1,1341
+[Thu Nov 20 10:09:26 UTC 2025][INFO] [Action] E Cut - (r,1341,5282)
+[Thu Nov 20 10:09:28 UTC 2025][INFO] [Action] E ItemChanged - -1,1341
+[Thu Nov 20 10:09:29 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:09:31 UTC 2025][INFO] [Action] E AddTextContainer - (c,753,2),0,0,0
+[Thu Nov 20 10:09:35 UTC 2025][INFO] [Action] E MergeContainer - 754,1
+[Thu Nov 20 10:09:36 UTC 2025][INFO] [Action] E AddTextContainer - (c,753,2),0,0,0
+[Thu Nov 20 10:09:37 UTC 2025][INFO] [Action] E MergeContainer - 754,1
+[Thu Nov 20 10:09:37 UTC 2025][INFO] [Action] E DeleteContent - (c,753,2),B
+[Thu Nov 20 10:09:41 UTC 2025][INFO] [Action] U DeleteContent
+[Thu Nov 20 10:09:42 UTC 2025][INFO] [Action] E AddTextContainer - (c,753,2),0,0,0
+[Thu Nov 20 10:09:46 UTC 2025][INFO] [Action] EE ClearFormatting - (c,754,1)
+[Thu Nov 20 10:09:47 UTC 2025][INFO] [Action] E Paste - (c,754,1),3952
+[Thu Nov 20 10:09:49 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:09:54 UTC 2025][INFO] [Action] E AddTextContainer - (c,22,2),0,0,0
+[Thu Nov 20 10:09:54 UTC 2025][INFO] [Action] EFail AddTextContainer - 4
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] E AddTextContainer - (c,22,2),0,0,0
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] EFail AddTextContainer - 4
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] E AddTextContainer - (c,22,2),0,0,0
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] EFail AddTextContainer - 4
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] E AddTextContainer - (c,22,2),0,0,0
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] EFail AddTextContainer - 4
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] E AddTextContainer - (c,22,2),0,0,0
+[Thu Nov 20 10:09:55 UTC 2025][INFO] [Action] EFail AddTextContainer - 4
+[Thu Nov 20 10:09:57 UTC 2025][INFO] [Action] E SplitContainer - 14
+[Thu Nov 20 10:09:57 UTC 2025][INFO] [Action] EFail SplitContainer - 4
+[Thu Nov 20 10:09:57 UTC 2025][INFO] [Action] E SplitContainer - 14
+[Thu Nov 20 10:09:57 UTC 2025][INFO] [Action] EFail SplitContainer - 4
+[Thu Nov 20 10:09:57 UTC 2025][INFO] [Action] E SplitContainer - 14
+[Thu Nov 20 10:09:58 UTC 2025][INFO] [Action] EFail SplitContainer - 4
+[Thu Nov 20 10:09:58 UTC 2025][INFO] [Action] E SplitContainer - 14
+[Thu Nov 20 10:09:59 UTC 2025][INFO] [Action] EFail SplitContainer - 4
+[Thu Nov 20 10:09:59 UTC 2025][INFO] [Action] E SplitContainer - 14
+[Thu Nov 20 10:09:59 UTC 2025][INFO] [Action] EFail SplitContainer - 4
+[Thu Nov 20 10:10:22 UTC 2025][INFO] [Action] E ApplySemantics - (r,741,741),other_page_title
+[Thu Nov 20 10:10:25 UTC 2025][INFO] [Action] E ItemChanged - -1,5296
+[Thu Nov 20 10:10:28 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:10:29 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Thu Nov 20 10:10:31 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:10:33 UTC 2025][INFO] [Action] E ItemChanged - -1,11795
+[Thu Nov 20 10:10:33 UTC 2025][INFO] [Action] E ItemChanged - -1,18258
+[Thu Nov 20 10:10:42 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:10:49 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),16:2.000000:2,(r,741,753),F
+[Thu Nov 20 10:10:50 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),16:25.000000:2,(r,741,753),F
+[Thu Nov 20 10:10:52 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:2.750000:2,(r,741,753),F
+[Thu Nov 20 10:10:53 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:3.000000:2,(r,741,753),F
+[Thu Nov 20 10:10:53 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:2.750000:2,(r,741,753),F
+[Thu Nov 20 10:10:54 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:2.500000:2,(r,741,753),F
+[Thu Nov 20 10:10:54 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:2.250000:2,(r,741,753),F
+[Thu Nov 20 10:10:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:2.000000:2,(r,741,753),F
+[Thu Nov 20 10:10:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:1.750000:2,(r,741,753),F
+[Thu Nov 20 10:10:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:1.500000:2,(r,741,753),F
+[Thu Nov 20 10:10:55 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:1.250000:2,(r,741,753),F
+[Thu Nov 20 10:10:56 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:1.000000:2,(r,741,753),F
+[Thu Nov 20 10:10:57 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:0.750000:2,(r,741,753),F
+[Thu Nov 20 10:10:57 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:0.500000:2,(r,741,753),F
+[Thu Nov 20 10:10:58 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),47:0.250000:2,(r,741,753),F
+[Thu Nov 20 10:11:00 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:0.250000:2,(r,741,753),F
+[Thu Nov 20 10:11:00 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:0.500000:2,(r,741,753),F
+[Thu Nov 20 10:11:00 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:0.750000:2,(r,741,753),F
+[Thu Nov 20 10:11:01 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:1.000000:2,(r,741,753),F
+[Thu Nov 20 10:11:01 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:1.250000:2,(r,741,753),F
+[Thu Nov 20 10:11:02 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:1.500000:2,(r,741,753),F
+[Thu Nov 20 10:11:04 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:1.250000:2,(r,741,753),F
+[Thu Nov 20 10:11:05 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:1.000000:2,(r,741,753),F
+[Thu Nov 20 10:11:05 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:0.750000:2,(r,741,753),F
+[Thu Nov 20 10:11:07 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),49:0.500000:2,(r,741,753),F
+[Thu Nov 20 10:11:10 UTC 2025][INFO] [Action] E ItemChanged - -1,11795
+[Thu Nov 20 10:11:18 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:11:24 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),13:361:3,(r,741,753),F
+[Thu Nov 20 10:11:26 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),13:350:3,(r,741,753),F
+[Thu Nov 20 10:11:27 UTC 2025][INFO] [Action] E UpdateStyle - (r,741,753),13:361:3,(r,741,753),F
+[Thu Nov 20 10:11:35 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Thu Nov 20 10:11:36 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Thu Nov 20 10:11:37 UTC 2025][INFO] [Action] E ItemChanged - -1,644
+[Thu Nov 20 10:11:38 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Thu Nov 20 10:11:40 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Thu Nov 20 10:11:42 UTC 2025][INFO] [Action] E InsertTextContent - (c,4697,1),[T]
+[Thu Nov 20 10:11:43 UTC 2025][INFO] [Action] EFail InsertTextContent - 4
+[Thu Nov 20 10:11:43 UTC 2025][INFO] [Action] E InsertTextContent - (c,4697,1),[t]
+[Thu Nov 20 10:11:43 UTC 2025][INFO] [Action] EFail InsertTextContent - 4
+[Thu Nov 20 10:11:49 UTC 2025][INFO] [Action] E MergeContainer - 4704,0
+[Thu Nov 20 10:11:54 UTC 2025][INFO] [Action] EFail MergeContainer - 5
+[Thu Nov 20 10:12:29 UTC 2025][INFO] [Action] E ItemChanged - -1,486646
+[Thu Nov 20 10:12:32 UTC 2025][INFO] [Action] E ItemChanged - -1,452631
+[Thu Nov 20 10:12:34 UTC 2025][INFO] [Action] E ItemChanged - -1,491031
+[Thu Nov 20 10:12:40 UTC 2025][INFO] [Action] E SaveBook - SaveforExport
+[Thu Nov 20 10:13:17 UTC 2025][INFO] [Action] EE ExportAction
+[Thu Nov 20 10:13:17 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 20 10:13:19 UTC 2025][INFO] Logger Terminated
+[Fri Nov 21 08:57:40 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Fri Nov 21 08:57:47 UTC 2025][INFO] [Action] E SaveBook - Save
+[Fri Nov 21 08:57:48 UTC 2025][INFO] Logger Terminated
+[Fri Nov 21 10:07:23 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Fri Nov 21 10:07:33 UTC 2025][INFO] [Action] E SaveBook - Save
+[Fri Nov 21 10:07:34 UTC 2025][INFO] Logger Terminated
+[Sat Nov 22 14:49:11 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook (2)_KC.kcb
+[Sat Nov 22 14:49:23 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Nov 22 14:49:23 UTC 2025][INFO] Logger Terminated
+[Sat Nov 22 15:37:49 UTC 2025][INFO] [Action] EE OpenBook
+[Sat Nov 22 15:37:51 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Sat Nov 22 15:37:53 UTC 2025][INFO] [Action] E ItemChanged - -1,644
+[Sat Nov 22 15:37:54 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Sat Nov 22 15:37:55 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Sat Nov 22 15:37:57 UTC 2025][INFO] [Action] E ItemChanged - -1,5296
+[Sat Nov 22 15:37:58 UTC 2025][INFO] [Action] E ItemChanged - -1,11795
+[Sat Nov 22 15:37:59 UTC 2025][INFO] [Action] E ItemChanged - -1,18258
+[Sat Nov 22 15:37:59 UTC 2025][INFO] [Action] E ItemChanged - -1,22829
+[Sat Nov 22 15:38:00 UTC 2025][INFO] [Action] E ItemChanged - -1,45243
+[Sat Nov 22 15:38:00 UTC 2025][INFO] [Action] E ItemChanged - -1,60218
+[Sat Nov 22 15:38:01 UTC 2025][INFO] [Action] E ItemChanged - -1,60218
+[Sat Nov 22 15:38:01 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Sat Nov 22 15:38:02 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Sat Nov 22 15:39:04 UTC 2025][INFO] [Action] EE OpenBook
+[Sat Nov 22 15:39:04 UTC 2025][INFO] [Action] EFail OpenBook - 4
+[Sat Nov 22 15:39:05 UTC 2025][INFO] [Action] E ItemChanged - -1,1
+[Sat Nov 22 15:39:06 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Sat Nov 22 15:39:07 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Sat Nov 22 15:39:07 UTC 2025][INFO] [Action] E ItemChanged - -1,644
+[Sat Nov 22 15:39:08 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Sat Nov 22 15:39:08 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Sat Nov 22 15:39:09 UTC 2025][INFO] [Action] E ItemChanged - -1,5296
+[Sat Nov 22 15:39:10 UTC 2025][INFO] [Action] E ItemChanged - -1,5296
+[Sat Nov 22 15:39:10 UTC 2025][INFO] [Action] E ItemChanged - -1,11795
+[Sat Nov 22 15:39:11 UTC 2025][INFO] [Action] E ItemChanged - -1,18258
+[Sat Nov 22 15:39:11 UTC 2025][INFO] [Action] E ItemChanged - -1,18258
+[Sat Nov 22 15:39:12 UTC 2025][INFO] [Action] E ItemChanged - -1,22829
+[Sat Nov 22 15:39:13 UTC 2025][INFO] [Action] E ItemChanged - -1,36940
+[Sat Nov 22 15:39:28 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Nov 22 15:39:31 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Nov 22 15:39:39 UTC 2025][INFO] [Action] E SaveBook - SaveAs
+[Sun Nov 23 14:24:48 UTC 2025][INFO] [Action] E ItemChanged - -1,37
+[Sun Nov 23 14:24:49 UTC 2025][INFO] [Action] E ItemChanged - -1,644
+[Sun Nov 23 14:24:51 UTC 2025][INFO] [Action] E ItemChanged - -1,741
+[Sun Nov 23 14:24:52 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Sun Nov 23 14:24:54 UTC 2025][INFO] [Action] E ItemChanged - -1,5296
+[Sun Nov 23 14:24:55 UTC 2025][INFO] [Action] E ItemChanged - -1,4697
+[Mon Nov 24 06:41:15 UTC 2025][INFO] Logger Terminated
+[Thu Nov 27 06:05:55 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Thu Nov 27 06:06:03 UTC 2025][INFO] Logger Terminated
+[Thu Nov 27 10:04:11 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Thu Nov 27 10:04:19 UTC 2025][INFO] Logger Terminated
+[Thu Nov 27 10:09:08 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Thu Nov 27 10:09:14 UTC 2025][INFO] Logger Terminated
+[Thu Nov 27 10:14:09 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Thu Nov 27 10:14:17 UTC 2025][INFO] Logger Terminated
+[Thu Nov 27 14:27:30 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Thu Nov 27 14:27:58 UTC 2025][INFO] [Action] E SaveBook - Save
+[Thu Nov 27 14:27:59 UTC 2025][INFO] Logger Terminated
+[Sat Dec 27 18:17:41 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebook - editable.kcb
+[Sat Dec 27 18:17:42 UTC 2025][INFO] [Action] E ApplySemantics - (r,0,0),block_quote
+[Sat Dec 27 18:17:42 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Sat Dec 27 18:17:42 UTC 2025][INFO] [Action] E ApplySemantics - (r,0,0),block_quote
+[Sat Dec 27 18:17:42 UTC 2025][INFO] [Action] EFail ApplySemantics - 4
+[Sat Dec 27 18:18:13 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Dec 27 18:18:17 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Dec 27 18:18:39 UTC 2025][INFO] [Action] E SaveBook - SaveAs
+[Sat Dec 27 18:19:08 UTC 2025][INFO] [Action] E SaveBook - Save
+[Sat Dec 27 18:19:14 UTC 2025][INFO] Logger Terminated
+[Sat Dec 27 18:19:16 UTC 2025][INFO] [Action] EE OpenBook
+[Sat Dec 27 18:19:18 UTC 2025][INFO] Logger Terminated
+[Sat Dec 27 18:19:55 UTC 2025][INFO] [Action] EE OpenBook
+[Sat Dec 27 18:20:06 UTC 2025][INFO] Logger Terminated
+[Mon Dec 29 10:16:09 UTC 2025][INFO] [Action] EE OpenBook - Ody Final - ebookFINAL - editable.kcb.kcb
+[Mon Dec 29 11:10:04 UTC 2025][INFO] Logger Terminated
+[Fri Jan 23 11:09:44 UTC 2026][INFO] [Action] EE OpenBook - Ody Final - ebookFINAL - editable.kcb.kcb
+[Fri Jan 23 11:09:55 UTC 2026][INFO] [Action] E SaveBook - Save
+[Fri Jan 23 11:09:59 UTC 2026][INFO] [Action] EE OpenBook
+[Fri Jan 23 11:09:59 UTC 2026][INFO] [Action] EFail OpenBook - 4
+[Fri Jan 23 11:10:06 UTC 2026][INFO] Logger Terminated
+[Fri Jan 23 15:22:07 UTC 2026][INFO] [Action] EE OpenBook - Ody Final - ebookFINAL - editable.kcb.kcb
+[Fri Jan 23 15:22:14 UTC 2026][INFO] Logger Terminated
+[Fri Jan 23 15:41:47 UTC 2026][INFO] [Action] EE OpenBook - Ody Final - ebookFINAL - editable.kcb.kcb
+[Fri Jan 23 15:41:54 UTC 2026][INFO] Logger Terminated
